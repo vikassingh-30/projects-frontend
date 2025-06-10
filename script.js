@@ -19,7 +19,7 @@ stagger:0.6
 tl.from("img", {
   transform: "translateX(100px) rotate(45deg)",
   opacity: 0,
-  stagger: 0.5,
+  stagger: 1,
   duration: 0.8,
 });
 
